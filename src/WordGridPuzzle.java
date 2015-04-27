@@ -1,5 +1,7 @@
 /**
  * Created by Phil on 27/04/2015.
+ * Word Puzzle Game creating a matrix of character squares which can be solved with complete
+ * words that fit in every direction on the matrix
  */
 public class WordGridPuzzle {
     // "//xx" = line for program development only
